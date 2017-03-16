@@ -1,0 +1,1 @@
+# 3dr-SOLO-QR-recognition

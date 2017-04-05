@@ -1,0 +1,5 @@
+#!/bin/bash
+while true; do
+	scp root@10.1.1.10:a.jpg .
+	sleep 2
+done
